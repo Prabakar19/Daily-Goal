@@ -1,6 +1,6 @@
 # dailygoal
 
-A new Flutter application.
+A Flutter application that reminds your daily goals. This is my first flutter application and it's in under development.
 
 ## Getting Started
 
