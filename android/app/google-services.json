@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893152320051",
+    "firebase_url": "https://daily-goal-d5bab.firebaseio.com",
+    "project_id": "daily-goal-d5bab",
+    "storage_bucket": "daily-goal-d5bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893152320051:android:22707af4c3f0231007a146",
+        "android_client_info": {
+          "package_name": "com.example.dailygoal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893152320051-qev3q1pbfojvbop4hvjl6tvgsmlfqpvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dailygoal",
+            "certificate_hash": "4de62a4efa6f11116654516467285ef2414d7bdd"
+          }
+        },
+        {
+          "client_id": "893152320051-425h7oamrndrnul749kr2vsueqfms057.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VSpZ4PJ6XURZwSb0PltWanCRfse1Q9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893152320051-425h7oamrndrnul749kr2vsueqfms057.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
